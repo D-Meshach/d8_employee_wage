@@ -13,7 +13,7 @@ namespace d8_empwage_edited
             
             Console.WriteLine("Welcome to the Employee Wage Problem");
             Random random = new Random();
-            empwage_process.empAttendance(random.Next(0,3));
+            empwage_process.empAttendance(random);
             
 
         }

@@ -14,27 +14,30 @@ namespace d8_empwage_edited
 
 
 
-        public static void empAttendance(int random)
+        public static void empAttendance(Random random)
         {
-            
-
             const int IS_FULL_TIME = 1;
             const int IS_PART_TIME = 2;
             int workHr = 0;
+            int totalEmpWage = 0;
+            for (int i = 0; i < 20; i++) {
+                int empCheck = random.Next(0,3);
+                switch (empCheck)
+                {
 
-            int empCheck = random;
+                    case IS_FULL_TIME: workHr = 8; break;
+                    case IS_PART_TIME: workHr = 4; break;
+                    default: workHr = 0; break;
 
-            switch (empCheck)
-            {
-
-                case IS_FULL_TIME: workHr = 8; break;
-                case IS_PART_TIME: workHr = 4;break;
-                default: workHr = 0;break;
-            
+                }
+                int current_wage = empDailyWage(workHr);
+                totalEmpWage += current_wage;
+                Console.WriteLine("Emp Wage: " + current_wage);
+                
             }
+            Console.WriteLine("The Total Employee Working Wage :" + totalEmpWage);
             
-
-            Console.WriteLine("Emp Wage: " + empDailyWage(workHr));
+            
 
         }
         public static int empDailyWage(int empWorkHr)
