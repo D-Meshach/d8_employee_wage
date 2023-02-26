@@ -18,26 +18,21 @@ namespace d8_empwage_edited
         {
             
 
-            int IS_FULL_TIME = 1;
-            int IS_PART_TIME = 2;
+            const int IS_FULL_TIME = 1;
+            const int IS_PART_TIME = 2;
             int workHr = 0;
 
             int empCheck = random;
-            if (empCheck == IS_FULL_TIME)
-            {
-                workHr = 8;
 
-            }
-            else if (empCheck == IS_PART_TIME) 
+            switch (empCheck)
             {
-                workHr = 4;
-            }
 
-            else
-            {
-                workHr = 0;
-
+                case IS_FULL_TIME: workHr = 8; break;
+                case IS_PART_TIME: workHr = 4;break;
+                default: workHr = 0;break;
+            
             }
+            
 
             Console.WriteLine("Emp Wage: " + empDailyWage(workHr));
 
