@@ -11,7 +11,7 @@ namespace d8_empwage_edited
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to the Employee Wage Problem");
-            empwage_process.empAttendance();
+            empwage_process.empDailyWage();
 
         }
     }
