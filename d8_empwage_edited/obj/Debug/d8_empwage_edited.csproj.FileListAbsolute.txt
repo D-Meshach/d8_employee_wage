@@ -1,0 +1,16 @@
+C:\Users\Meshach\source\repos\d8_empwage_edited\d8_empwage_edited\bin\Debug\d8_empwage_edited.exe.config
+C:\Users\Meshach\source\repos\d8_empwage_edited\d8_empwage_edited\bin\Debug\d8_empwage_edited.exe
+C:\Users\Meshach\source\repos\d8_empwage_edited\d8_empwage_edited\bin\Debug\d8_empwage_edited.pdb
+C:\Users\Meshach\source\repos\d8_empwage_edited\d8_empwage_edited\obj\Debug\d8_empwage_edited.csproj.AssemblyReference.cache
+C:\Users\Meshach\source\repos\d8_empwage_edited\d8_empwage_edited\obj\Debug\d8_empwage_edited.csproj.SuggestedBindingRedirects.cache
+C:\Users\Meshach\source\repos\d8_empwage_edited\d8_empwage_edited\obj\Debug\d8_empwage_edited.csproj.CoreCompileInputs.cache
+C:\Users\Meshach\source\repos\d8_empwage_edited\d8_empwage_edited\obj\Debug\d8_empwage_edited.exe
+C:\Users\Meshach\source\repos\d8_empwage_edited\d8_empwage_edited\obj\Debug\d8_empwage_edited.pdb
+D:\Visual_studio_projects\d8_empwage_edited\d8_empwage_edited\bin\Debug\d8_empwage_edited.exe.config
+D:\Visual_studio_projects\d8_empwage_edited\d8_empwage_edited\bin\Debug\d8_empwage_edited.exe
+D:\Visual_studio_projects\d8_empwage_edited\d8_empwage_edited\bin\Debug\d8_empwage_edited.pdb
+D:\Visual_studio_projects\d8_empwage_edited\d8_empwage_edited\obj\Debug\d8_empwage_edited.csproj.AssemblyReference.cache
+D:\Visual_studio_projects\d8_empwage_edited\d8_empwage_edited\obj\Debug\d8_empwage_edited.csproj.SuggestedBindingRedirects.cache
+D:\Visual_studio_projects\d8_empwage_edited\d8_empwage_edited\obj\Debug\d8_empwage_edited.csproj.CoreCompileInputs.cache
+D:\Visual_studio_projects\d8_empwage_edited\d8_empwage_edited\obj\Debug\d8_empwage_edited.exe
+D:\Visual_studio_projects\d8_empwage_edited\d8_empwage_edited\obj\Debug\d8_empwage_edited.pdb
